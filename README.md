@@ -28,3 +28,5 @@ Put `European_Bank.csv` beside `app.py`, then run:
 pip install -r requirements.txt
 python -m streamlit run app.py
 ```
+## Research paper
+https://drive.google.com/file/d/1OZiu6YCVc-Zmpw6vGPqtMdWE7zgeJ4a_/view?usp=drive_link
