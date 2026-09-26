@@ -30,3 +30,6 @@ python -m streamlit run app.py
 ```
 ## Research paper
 https://drive.google.com/file/d/1OZiu6YCVc-Zmpw6vGPqtMdWE7zgeJ4a_/view?usp=drive_link
+
+## Live Deploy
+https://european-bank-churn-dashboardgit-mrhuuytqgkc6lfw3dxskb7.streamlit.app/
